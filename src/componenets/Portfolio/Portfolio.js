@@ -111,7 +111,7 @@ React-jS OpenAi
           <div className='portfolio__item-image'>
             <img src={img8} alt=''></img>
           </div>
-          <h3>OpenAi-Image-Generator</h3>
+          <h3>OpenAi Image Generator</h3>
           <small className='portfolio__feature '>
 Next-JS Open-Ai
             </small>
