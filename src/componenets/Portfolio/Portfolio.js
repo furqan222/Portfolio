@@ -130,7 +130,7 @@ React-JS CSS3 Swiper-JS
             </small>
           <div className='portfolio__item-cta'>
           <a href='https://github.com/furqan222' className='btn' target='_blank'>Github</a>
-          <a href='https://87cf8305.portfolio-83o.pages.dev' className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href='https://portfolio-83o.pages.dev' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
       </div> 
