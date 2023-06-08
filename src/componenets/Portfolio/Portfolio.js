@@ -26,7 +26,7 @@ HTML CSS JAVASCRIPT
             </small>
           <div className='portfolio__item-cta'>
           <a href='https://github.com/furqan222/Basic-Portfolio.git' className='btn' target='_blank'>Github</a>
-          <a href='https://8263cdcb.basic-portfolio-1tb.pages.dev' className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href='https://basic-portfolio-1tb.pages.dev' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -39,7 +39,7 @@ HTML CSS JAVASCRIPT
             </small>
           <div className='portfolio__item-cta'>
           <a href='https://github.com/furqan222/Tic-Tac-Toc.git' className='btn' target='_blank'>Github</a>
-          <a href='https://3772d85c.tic-tac-toc.pages.dev' className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href='https://tic-tac-toc.pages.dev' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -52,7 +52,7 @@ HTML CSS JAVASCRIPT
             </small>
           <div className='portfolio__item-cta'>
           <a href='https://github.com/furqan222/Calculator.git' className='btn' target='_blank'>Github</a>
-          <a href='https://83ee8748.calculator-x9j.pages.dev' className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href='https://calculator-x9j.pages.dev' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -65,7 +65,7 @@ HTML CSS JAVASCRIPT
             </small>
           <div className='portfolio__item-cta'>
           <a href='https://github.com/furqan222/Snake-Game.git' className='btn' target='_blank'>Github</a>
-          <a href='https://ee12bcee.snake-game-co0.pages.dev' className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href='https://snake-game-co0.pages.dev' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -78,7 +78,7 @@ HTML CSS JAVASCRIPT
             </small>
           <div className='portfolio__item-cta'>
           <a href='https://github.com/furqan222/Coffee-Shop.git' className='btn' target='_blank'>Github</a>
-          <a href='https://c2e65a81.coffee-shop-bjv.pages.dev' className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href='https://coffee-shop-bjv.pages.dev' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -91,7 +91,7 @@ HTML CSS JAVASCRIPT
             </small>
           <div className='portfolio__item-cta'>
           <a href='https://github.com/furqan222/Adventure-and-Tour.git' className='btn' target='_blank'>Github</a>
-          <a href='https://9e490718.adventure-and-tour.pages.dev' className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href='https://adventure-and-tour.pages.dev' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -104,7 +104,7 @@ React-jS OpenAi
             </small>
           <div className='portfolio__item-cta'>
           <a href='https://github.com/furqan222/React-JS-OpenAi-App.git' className='btn' target='_blank'>Github</a>
-          <a href='https://fc0b11cb.react-js-openai-app.pages.dev' className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href='https://react-js-openai-app.pages.dev' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -117,7 +117,7 @@ Next-JS Open-Ai
             </small>
           <div className='portfolio__item-cta'>
           <a href='https://github.com/furqan222/NextJS-Image-Generator.git' className='btn' target='_blank'>Github</a>
-          <a href='https://fc0b11cb.react-js-openai-app.pages.dev' className='btn btn-primary' target='_blank'>Live Demo</a>
+          <a href='https://react-js-openai-app.pages.dev' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className='portfolio__item'>
